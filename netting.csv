@@ -1,0 +1,4 @@
+"IceLink Status","IceLink Transaction Id","IceLink Trade Id","Buyer Legal Entity","Seller Legal Entity"
+"TERMINATED","T282828*D191911","IceTrade_Id","buyer_legal_entity","seller_legal_entity"
+"TERMINATED","T282828*D191912","IceTrade_Id","buyer_legal_entity","seller_legal_entity"
+"AFFIRMED","T282828*D191919","IceTrade_Id","buyer_legal_entity","seller_legal_entity"
